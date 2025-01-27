@@ -17,4 +17,12 @@ Este script en Python permite realizar búsquedas web utilizando **DuckDuckGo**,
 Instala las dependencias con:
 
 
+
 pip install requests beautifulsoup4 termcolor
+
+
+git clone https://github.com/bayhackplis1/web-search
+
+
+python3 search.py
+
