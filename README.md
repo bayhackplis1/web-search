@@ -7,6 +7,11 @@ Combinación de resultados: Los resultados de cada motor se combinan en una sola
 Interactividad: Al finalizar cada búsqueda, el script pregunta si deseas realizar otra búsqueda, permitiendo un flujo continuo sin tener que reiniciar el programa.
 Interfaz atractiva: El script incluye un diseño colorido para facilitar su uso en la terminal, con un banner de bienvenida y resultados destacados en colores.
 Requisitos
+
+
+
+
+
 Python 3.x
 Librerías: requests, beautifulsoup4, termcolor.
 Instala las dependencias con:
